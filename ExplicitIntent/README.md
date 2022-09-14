@@ -38,7 +38,7 @@ Registeration Number : 212221240041
 ```
 ## MainActivity.java:
 ```
-package com.sanath.a2b;
+package com.ramsai.a2b;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## SecondActivity.java
 ```
-package com.sanath.a2b;
+package com.ramsai.a2b;
 
 import android.os.Bundle;
 import android.widget.TextView;
