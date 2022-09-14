@@ -21,10 +21,10 @@ Android Studio(Min.required Artic Fox)
 
  Step 7: Save and run the application.
 ## Program:
-/*
+```
 Developed by : P.Ramsai
 Reg no : 212221240041
-*/
+```
 
 ## MainActivity.java:
 ```
