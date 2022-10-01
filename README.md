@@ -104,8 +104,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
-![Screenshot (150)](https://user-images.githubusercontent.com/94269989/193408226-7c8843b6-28a2-43fb-b0af-db11e39a9a88.png)
-![Screenshot (151)](https://user-images.githubusercontent.com/94269989/193408230-406c2fbb-d925-41cc-9132-9c254c92d076.png)
+
 
 
 ## Result:
