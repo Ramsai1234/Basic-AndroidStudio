@@ -103,19 +103,9 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## Output:
-![Screenshot (121)](https://user-images.githubusercontent.com/94269989/190666399-95bb19ac-ae57-4b50-8253-ec52ba538aaa.png)
 
-![Screenshot (122)](https://user-images.githubusercontent.com/94269989/190666483-c4b09b97-7bfb-4b65-a733-e719c3f1edec.png)
-
-![Screenshot (123)](https://user-images.githubusercontent.com/94269989/190666554-c389f06c-4593-473c-b1ab-989fa53c0142.png)
-
-![Screenshot (125)](https://user-images.githubusercontent.com/94269989/190666666-5c64c94a-c23d-4723-b37d-9463730e1a48.png)
-
-![Screenshot (126)](https://user-images.githubusercontent.com/94269989/190666947-130de370-8162-4f29-aa6f-a1b5e57a510c.png)
-
-![Screenshot (127)](https://user-images.githubusercontent.com/94269989/190666982-3d697f1c-56e7-4ce0-856f-65ebae9fb8ba.png)
-
-![Screenshot (128)](https://user-images.githubusercontent.com/94269989/190667009-9038d8f9-e2df-4cb0-9eec-b4581fb84b23.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/94269989/193408226-7c8843b6-28a2-43fb-b0af-db11e39a9a88.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/94269989/193408230-406c2fbb-d925-41cc-9132-9c254c92d076.png)
 
 
 ## Result:
