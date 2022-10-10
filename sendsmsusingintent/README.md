@@ -31,10 +31,10 @@ Step 7: Save and run the application.
 Program to create and design an android application Send SMS using Intent.
 Developed by:P.Ramsai
 Registeration Number :212221240041
-
+```
 
 ## MainActivity.java:
-
+```
 package com.ramsai.message;
 
 import androidx.appcompat.app.AppCompatActivity;
